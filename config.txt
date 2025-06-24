@@ -1,0 +1,5 @@
+DB_USER:admindb
+DB_PASS:12343dsadasdasFDTR!@13
+DB_HOSTNAME:my-db.com
+DB_PORT:1234
+
