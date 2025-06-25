@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Export variabile, nu exista in sistem. Important pentru a copia si genera dupa template fisierul.
-
+# Sau se introduc manual  ~/.bashrc.
 export SERVER=localhost
 export PORT=8080
 export USERNAME=eu
