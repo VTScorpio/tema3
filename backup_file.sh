@@ -1,6 +1,8 @@
 #!/bin/bash
+# A se declara pana la executie script 
 # export BACKUP_FILE_PATH="/cale/file.txt"
 # export BACKUP_DIR="backup"
+# Executie script
 # ./backup_file.sh
 
 
